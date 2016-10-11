@@ -1,0 +1,23 @@
+{
+  "name": "chat-app",
+  "authors": [
+    "studio5peacock <studio5peacock@gmail.com>"
+  ],
+  "description": "two man chating",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
